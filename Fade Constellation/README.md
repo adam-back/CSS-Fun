@@ -17,7 +17,10 @@ Draw Stars
 5. Select the Crosshatch 1 brush. Alter the size and color to match the individual stars.
 
 Draw Lines
-1. 
+1. Select the line tool. Set its fill to the line color (#98a9dd). Stroke doesn't matter, because it's set at 0pt. Set weight to 2px.
+2. Create a new layer. Start drawing lines on it.
+3. Select all of the Shape layers and "Merge Shapes".
+4. With that layer still selected, Filter > Blur > Blur More.
 
 Save Files
-
+1. 
