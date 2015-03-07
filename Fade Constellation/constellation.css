@@ -1,0 +1,38 @@
+.const {
+  width: 11em;
+  height: 11em;
+}
+
+.const .lines { 
+  width: 11em;
+  height: 11em;
+  -webkit-opacity: 0.25;
+  -moz-opacity: 0.25;
+  opacity: 0;
+}
+
+.const:hover .lines {
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
+
+#AB.const {
+  width: 14em;
+  height: 14em;
+  background: url(ab_stars.png);
+  background-size: cover;
+}
+
+#AB.lines {
+  width: 14em;
+  height: 14em;
+  background: url(ab_lines.png);
+  background-size: cover;
+}
+
+#AB p {
+  position: relative;
+  top: 8em;
+  left: 7em;
+}
