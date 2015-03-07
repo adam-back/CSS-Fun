@@ -23,4 +23,7 @@ Draw Lines
 4. With that layer still selected, Filter > Blur > Blur More.
 
 Save Files
-1. 
+1. Hide everything but the stars.
+1. Cmd-Opt-Shift-S. Save as 500x500px png with transparent background. Name something like, `shape_stars.png`.
+1. Hide everything but the lines.
+1. Save the same way as above, but with `shape_lines.png`.
