@@ -1,5 +1,6 @@
 body {
   background-color: black; 
+  color: #687497;
 }
 .const {
   width: 11em;
@@ -43,4 +44,5 @@ body {
   position: relative;
   top: 8em;
   left: 7em;
+  font-family: 'Noto Serif', serif;
 }
